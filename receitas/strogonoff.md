@@ -1,7 +1,7 @@
-#Strogonoff de frango 
+# Strogonoff de frango 
 **Negrito** 
 
-##Igredientes
+## Igredientes
 
  - 1 colher (sopa) de óleo
  - 1 cebola pequena picada
